@@ -2,7 +2,17 @@
 
 UI in development here: https://www.figma.com/file/f23nTHED4ITyKO0dDzTs2T/expressivecare?node-id=0%3A1
 
-Distance care tools
+The idea:
+
+I am an autism caregiver and we have an urgent need to make remote learning more engaging for the children we serve. Therapists are having to behave like circus performers just to get their clients to pay attention to the screen. They are used to games and videos that are more exciting. I have been polling autism caregiver groups for the main challenges and I believe that a simple web app is what is needed, possibly using react & websockets.
+
+The main thing we need is to be able to control media and animations on a remote device in realtime. Low latency is important because we want to reward kids as soon as they do the correct action. Research shows that the faster you can deliver the reward the more likely the child is to associate it with the previous action. This would help for all kinds of educators, not just autism therapists.
+
+I believe we can avoid any privacy concerns because we don't need to provide the video part or use any private information ourselves. This could just work alongside video in a separate app.
+
+Open-source and as free as possible for educators would be great. I have some experience contributing to tech products but I'm not a developer. I understand github, heroku, etc. The biggest value that I bring is that I can distribute it to caregivers as soon as there's a prototype and get continuous feedback from the field. Therapists and parents are starving for better options than vanilla Zoom.
+
+Functionality
 
 Users:
 
